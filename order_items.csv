@@ -1,0 +1,392 @@
+item_id,order_id,product_name,category,quantity,price_per_unit
+I00001,O0001,Notebook,Stationery,2,719.88
+I00002,O0001,Sunglasses,Fashion,2,220.32
+I00003,O0001,T-Shirt,Fashion,4,216.97
+I00004,O0002,T-Shirt,Fashion,2,1985.67
+I00005,O0003,Mobile Charger,Electronics,4,1412.22
+I00006,O0003,Water Bottle,Kitchen,2,1194.34
+I00007,O0004,Bluetooth Speaker,Electronics,3,978.16
+I00008,O0005,T-Shirt,Fashion,4,1634.16
+I00009,O0005,Notebook,Stationery,2,1695.14
+I00010,O0005,Book,Stationery,4,761.0
+I00011,O0006,Water Bottle,Kitchen,1,1299.6
+I00012,O0007,Mobile Charger,Electronics,5,1483.47
+I00013,O0007,Water Bottle,Kitchen,1,890.48
+I00014,O0008,Mobile Charger,Electronics,4,1356.25
+I00015,O0008,Backpack,Accessories,1,750.09
+I00016,O0009,Coffee Mug,Kitchen,3,1771.54
+I00017,O0009,Bluetooth Speaker,Electronics,4,1793.34
+I00018,O0010,Notebook,Stationery,4,1120.82
+I00019,O0010,Mobile Charger,Electronics,5,1935.25
+I00020,O0011,Notebook,Stationery,2,1000.51
+I00021,O0012,Notebook,Stationery,2,1477.29
+I00022,O0012,Wireless Mouse,Electronics,5,332.71
+I00023,O0013,Notebook,Stationery,2,1839.27
+I00024,O0013,Coffee Mug,Kitchen,5,1090.48
+I00025,O0014,T-Shirt,Fashion,2,1258.18
+I00026,O0014,Wireless Mouse,Electronics,3,1893.31
+I00027,O0015,Book,Stationery,5,1859.29
+I00028,O0015,Mobile Charger,Electronics,1,1862.92
+I00029,O0015,Bluetooth Speaker,Electronics,3,835.53
+I00030,O0016,Water Bottle,Kitchen,3,1627.12
+I00031,O0016,T-Shirt,Fashion,5,1984.64
+I00032,O0017,Notebook,Stationery,4,755.32
+I00033,O0017,Backpack,Accessories,4,217.8
+I00034,O0017,Mobile Charger,Electronics,5,1392.52
+I00035,O0018,T-Shirt,Fashion,1,413.49
+I00036,O0019,Water Bottle,Kitchen,5,801.2
+I00037,O0019,T-Shirt,Fashion,1,1574.03
+I00038,O0020,T-Shirt,Fashion,3,1636.32
+I00039,O0021,Backpack,Accessories,5,954.36
+I00040,O0021,Book,Stationery,1,1730.44
+I00041,O0022,Bluetooth Speaker,Electronics,4,835.91
+I00042,O0022,Wireless Mouse,Electronics,4,1602.76
+I00043,O0022,Water Bottle,Kitchen,3,145.69
+I00044,O0023,Backpack,Accessories,1,1955.71
+I00045,O0024,Book,Stationery,2,504.53
+I00046,O0025,Book,Stationery,3,503.66
+I00047,O0025,Backpack,Accessories,4,689.3
+I00048,O0025,Backpack,Accessories,3,1848.2
+I00049,O0026,Backpack,Accessories,2,1182.15
+I00050,O0026,Mobile Charger,Electronics,1,122.07
+I00051,O0026,Notebook,Stationery,4,1806.87
+I00052,O0027,Coffee Mug,Kitchen,1,1451.19
+I00053,O0028,Coffee Mug,Kitchen,5,1836.94
+I00054,O0029,Book,Stationery,2,1303.94
+I00055,O0029,Water Bottle,Kitchen,5,595.78
+I00056,O0030,Backpack,Accessories,2,1721.15
+I00057,O0031,Notebook,Stationery,3,1269.97
+I00058,O0032,Bluetooth Speaker,Electronics,2,1423.83
+I00059,O0033,Notebook,Stationery,2,1370.78
+I00060,O0034,Wireless Mouse,Electronics,3,451.11
+I00061,O0034,Wireless Mouse,Electronics,5,1390.39
+I00062,O0035,Mobile Charger,Electronics,1,1254.41
+I00063,O0036,Wireless Mouse,Electronics,4,791.77
+I00064,O0037,Coffee Mug,Kitchen,5,377.84
+I00065,O0037,Wireless Mouse,Electronics,3,1296.82
+I00066,O0038,Bluetooth Speaker,Electronics,4,1639.7
+I00067,O0039,Backpack,Accessories,4,440.98
+I00068,O0039,Book,Stationery,3,1884.37
+I00069,O0040,Bluetooth Speaker,Electronics,4,445.68
+I00070,O0041,Backpack,Accessories,4,681.5
+I00071,O0041,T-Shirt,Fashion,4,1259.73
+I00072,O0042,Coffee Mug,Kitchen,5,1951.74
+I00073,O0042,T-Shirt,Fashion,2,685.29
+I00074,O0043,Sunglasses,Fashion,2,839.31
+I00075,O0043,Coffee Mug,Kitchen,3,610.27
+I00076,O0043,Backpack,Accessories,1,263.85
+I00077,O0044,Wireless Mouse,Electronics,2,1510.6
+I00078,O0045,Water Bottle,Kitchen,1,130.28
+I00079,O0045,Water Bottle,Kitchen,2,1033.55
+I00080,O0045,Book,Stationery,3,424.31
+I00081,O0046,Water Bottle,Kitchen,2,1932.73
+I00082,O0047,Coffee Mug,Kitchen,3,803.26
+I00083,O0047,Wireless Mouse,Electronics,2,458.92
+I00084,O0048,Mobile Charger,Electronics,2,441.74
+I00085,O0049,Bluetooth Speaker,Electronics,2,769.6
+I00086,O0049,Coffee Mug,Kitchen,1,1539.37
+I00087,O0050,Wireless Mouse,Electronics,5,1917.96
+I00088,O0050,Coffee Mug,Kitchen,2,1079.53
+I00089,O0050,Sunglasses,Fashion,5,854.44
+I00090,O0051,Coffee Mug,Kitchen,4,1435.82
+I00091,O0052,Backpack,Accessories,3,329.0
+I00092,O0053,Coffee Mug,Kitchen,2,712.28
+I00093,O0053,Backpack,Accessories,3,1556.78
+I00094,O0054,Wireless Mouse,Electronics,4,1481.42
+I00095,O0054,Water Bottle,Kitchen,2,1081.78
+I00096,O0054,Notebook,Stationery,2,1325.48
+I00097,O0055,Mobile Charger,Electronics,1,573.0
+I00098,O0055,Notebook,Stationery,4,1671.16
+I00099,O0055,Coffee Mug,Kitchen,1,349.44
+I00100,O0056,Notebook,Stationery,5,1970.87
+I00101,O0057,Coffee Mug,Kitchen,5,429.12
+I00102,O0057,Book,Stationery,4,436.93
+I00103,O0057,Water Bottle,Kitchen,3,523.68
+I00104,O0058,Book,Stationery,4,331.67
+I00105,O0058,Coffee Mug,Kitchen,5,692.84
+I00106,O0058,Backpack,Accessories,5,393.6
+I00107,O0059,Book,Stationery,3,1542.43
+I00108,O0060,Notebook,Stationery,1,1368.43
+I00109,O0060,Book,Stationery,2,362.12
+I00110,O0061,Wireless Mouse,Electronics,5,525.97
+I00111,O0061,Sunglasses,Fashion,4,1560.53
+I00112,O0061,Mobile Charger,Electronics,5,1738.68
+I00113,O0062,Book,Stationery,1,335.23
+I00114,O0062,Notebook,Stationery,2,1419.61
+I00115,O0063,Backpack,Accessories,2,1534.57
+I00116,O0063,Notebook,Stationery,5,1827.58
+I00117,O0064,Bluetooth Speaker,Electronics,2,1134.69
+I00118,O0065,Coffee Mug,Kitchen,3,821.31
+I00119,O0065,T-Shirt,Fashion,1,390.34
+I00120,O0065,Wireless Mouse,Electronics,4,695.94
+I00121,O0066,Notebook,Stationery,5,1166.91
+I00122,O0067,Mobile Charger,Electronics,4,401.07
+I00123,O0068,Book,Stationery,2,1670.59
+I00124,O0068,Notebook,Stationery,1,821.26
+I00125,O0068,Sunglasses,Fashion,4,340.03
+I00126,O0069,Bluetooth Speaker,Electronics,1,1018.83
+I00127,O0069,Sunglasses,Fashion,3,1070.7
+I00128,O0069,T-Shirt,Fashion,1,995.22
+I00129,O0070,Book,Stationery,1,276.1
+I00130,O0070,Sunglasses,Fashion,1,1935.56
+I00131,O0071,T-Shirt,Fashion,2,1825.45
+I00132,O0071,Wireless Mouse,Electronics,5,1203.28
+I00133,O0072,Backpack,Accessories,1,1475.26
+I00134,O0072,Notebook,Stationery,5,283.52
+I00135,O0073,Coffee Mug,Kitchen,1,1882.63
+I00136,O0073,Wireless Mouse,Electronics,2,1086.49
+I00137,O0074,Backpack,Accessories,1,1914.47
+I00138,O0074,T-Shirt,Fashion,3,842.31
+I00139,O0075,Bluetooth Speaker,Electronics,5,1996.81
+I00140,O0075,Book,Stationery,5,329.91
+I00141,O0075,Book,Stationery,2,1759.39
+I00142,O0076,Mobile Charger,Electronics,2,1454.13
+I00143,O0076,Book,Stationery,5,860.67
+I00144,O0077,Bluetooth Speaker,Electronics,2,1024.37
+I00145,O0078,Mobile Charger,Electronics,3,1049.31
+I00146,O0079,T-Shirt,Fashion,1,1360.12
+I00147,O0080,Mobile Charger,Electronics,2,1896.95
+I00148,O0081,Coffee Mug,Kitchen,5,1416.36
+I00149,O0081,Water Bottle,Kitchen,3,870.54
+I00150,O0082,Backpack,Accessories,4,1323.27
+I00151,O0082,Coffee Mug,Kitchen,2,1189.18
+I00152,O0083,Bluetooth Speaker,Electronics,4,1454.92
+I00153,O0083,Book,Stationery,4,490.2
+I00154,O0084,Backpack,Accessories,4,204.15
+I00155,O0084,Coffee Mug,Kitchen,4,1161.22
+I00156,O0085,Water Bottle,Kitchen,2,1261.22
+I00157,O0085,Backpack,Accessories,2,549.93
+I00158,O0086,Wireless Mouse,Electronics,3,1029.74
+I00159,O0087,Backpack,Accessories,1,1747.1
+I00160,O0087,Bluetooth Speaker,Electronics,5,1582.52
+I00161,O0088,Bluetooth Speaker,Electronics,3,334.93
+I00162,O0089,T-Shirt,Fashion,5,893.87
+I00163,O0089,Bluetooth Speaker,Electronics,5,149.66
+I00164,O0090,Bluetooth Speaker,Electronics,1,1237.62
+I00165,O0090,Water Bottle,Kitchen,2,1048.45
+I00166,O0090,Water Bottle,Kitchen,4,1722.96
+I00167,O0091,Coffee Mug,Kitchen,3,617.22
+I00168,O0091,Water Bottle,Kitchen,1,148.93
+I00169,O0091,Bluetooth Speaker,Electronics,1,1408.45
+I00170,O0092,Coffee Mug,Kitchen,1,1954.87
+I00171,O0092,Notebook,Stationery,1,768.87
+I00172,O0093,Notebook,Stationery,1,1160.75
+I00173,O0094,Book,Stationery,5,203.79
+I00174,O0094,Notebook,Stationery,3,795.48
+I00175,O0094,Book,Stationery,1,1059.07
+I00176,O0095,Bluetooth Speaker,Electronics,3,621.74
+I00177,O0095,Backpack,Accessories,4,831.93
+I00178,O0095,T-Shirt,Fashion,5,466.41
+I00179,O0096,Sunglasses,Fashion,4,1701.08
+I00180,O0096,Backpack,Accessories,2,326.54
+I00181,O0096,Mobile Charger,Electronics,2,1355.39
+I00182,O0097,Notebook,Stationery,4,250.42
+I00183,O0098,Mobile Charger,Electronics,2,1808.95
+I00184,O0098,Coffee Mug,Kitchen,5,450.28
+I00185,O0098,Mobile Charger,Electronics,3,1691.77
+I00186,O0099,Wireless Mouse,Electronics,1,776.31
+I00187,O0099,Notebook,Stationery,4,1158.87
+I00188,O0100,Coffee Mug,Kitchen,2,218.66
+I00189,O0100,Notebook,Stationery,1,1856.54
+I00190,O0100,Sunglasses,Fashion,4,940.5
+I00191,O0101,Water Bottle,Kitchen,4,1770.6
+I00192,O0101,T-Shirt,Fashion,5,1001.87
+I00193,O0102,Sunglasses,Fashion,1,1077.42
+I00194,O0102,Wireless Mouse,Electronics,5,597.71
+I00195,O0102,Notebook,Stationery,5,357.49
+I00196,O0103,Wireless Mouse,Electronics,5,1780.92
+I00197,O0103,Mobile Charger,Electronics,1,1114.11
+I00198,O0104,Book,Stationery,4,251.08
+I00199,O0105,Mobile Charger,Electronics,4,1542.32
+I00200,O0105,T-Shirt,Fashion,5,1258.8
+I00201,O0106,Wireless Mouse,Electronics,1,579.87
+I00202,O0107,Book,Stationery,3,547.28
+I00203,O0108,Wireless Mouse,Electronics,1,1007.37
+I00204,O0108,Bluetooth Speaker,Electronics,1,1980.77
+I00205,O0109,Mobile Charger,Electronics,1,446.97
+I00206,O0110,Backpack,Accessories,1,429.12
+I00207,O0110,Water Bottle,Kitchen,4,1948.62
+I00208,O0111,T-Shirt,Fashion,1,1222.42
+I00209,O0111,T-Shirt,Fashion,3,1138.84
+I00210,O0111,Book,Stationery,2,1497.5
+I00211,O0112,Book,Stationery,2,1295.7
+I00212,O0112,Backpack,Accessories,4,1110.68
+I00213,O0112,Mobile Charger,Electronics,4,1344.43
+I00214,O0113,Wireless Mouse,Electronics,3,1185.46
+I00215,O0113,Mobile Charger,Electronics,2,1655.67
+I00216,O0113,Bluetooth Speaker,Electronics,5,1247.8
+I00217,O0114,Mobile Charger,Electronics,4,132.38
+I00218,O0114,Backpack,Accessories,1,1602.86
+I00219,O0115,Notebook,Stationery,1,465.24
+I00220,O0116,T-Shirt,Fashion,3,1108.04
+I00221,O0117,Mobile Charger,Electronics,5,1538.82
+I00222,O0118,Wireless Mouse,Electronics,2,1417.48
+I00223,O0119,Backpack,Accessories,1,1648.69
+I00224,O0119,Backpack,Accessories,4,1824.57
+I00225,O0120,Sunglasses,Fashion,1,941.53
+I00226,O0121,Bluetooth Speaker,Electronics,1,1552.44
+I00227,O0121,T-Shirt,Fashion,1,1621.67
+I00228,O0121,T-Shirt,Fashion,3,1679.07
+I00229,O0122,T-Shirt,Fashion,3,1317.46
+I00230,O0122,Mobile Charger,Electronics,2,1786.41
+I00231,O0122,Coffee Mug,Kitchen,3,1083.94
+I00232,O0123,Book,Stationery,1,179.92
+I00233,O0124,Bluetooth Speaker,Electronics,3,1424.92
+I00234,O0125,Mobile Charger,Electronics,4,556.29
+I00235,O0126,Bluetooth Speaker,Electronics,5,844.35
+I00236,O0127,Book,Stationery,4,766.82
+I00237,O0127,Coffee Mug,Kitchen,5,885.74
+I00238,O0128,T-Shirt,Fashion,2,1545.67
+I00239,O0128,Sunglasses,Fashion,1,192.11
+I00240,O0128,Mobile Charger,Electronics,1,544.2
+I00241,O0129,Sunglasses,Fashion,5,180.86
+I00242,O0130,Coffee Mug,Kitchen,2,598.18
+I00243,O0130,Mobile Charger,Electronics,1,1771.89
+I00244,O0130,Wireless Mouse,Electronics,5,144.35
+I00245,O0131,Water Bottle,Kitchen,3,1892.13
+I00246,O0132,T-Shirt,Fashion,1,1630.96
+I00247,O0133,Sunglasses,Fashion,4,313.77
+I00248,O0133,Backpack,Accessories,2,862.63
+I00249,O0133,Backpack,Accessories,5,447.15
+I00250,O0134,Notebook,Stationery,3,1664.72
+I00251,O0135,Coffee Mug,Kitchen,2,1925.63
+I00252,O0135,Mobile Charger,Electronics,4,1700.01
+I00253,O0135,T-Shirt,Fashion,3,1362.06
+I00254,O0136,Water Bottle,Kitchen,3,175.04
+I00255,O0137,Notebook,Stationery,1,402.67
+I00256,O0137,Mobile Charger,Electronics,2,1412.07
+I00257,O0137,Notebook,Stationery,1,1255.83
+I00258,O0138,Coffee Mug,Kitchen,5,1738.9
+I00259,O0139,T-Shirt,Fashion,3,1638.93
+I00260,O0139,Wireless Mouse,Electronics,1,1870.67
+I00261,O0139,Notebook,Stationery,4,223.37
+I00262,O0140,Wireless Mouse,Electronics,2,1024.05
+I00263,O0140,Water Bottle,Kitchen,2,1390.5
+I00264,O0141,Coffee Mug,Kitchen,3,1351.39
+I00265,O0141,Sunglasses,Fashion,3,926.93
+I00266,O0142,Book,Stationery,2,569.25
+I00267,O0142,Wireless Mouse,Electronics,2,962.32
+I00268,O0142,Bluetooth Speaker,Electronics,2,1088.85
+I00269,O0143,Wireless Mouse,Electronics,3,1250.81
+I00270,O0143,Book,Stationery,1,169.18
+I00271,O0144,Water Bottle,Kitchen,1,1878.47
+I00272,O0144,Bluetooth Speaker,Electronics,4,1793.66
+I00273,O0144,Backpack,Accessories,3,1109.01
+I00274,O0145,Book,Stationery,2,1124.31
+I00275,O0145,Bluetooth Speaker,Electronics,2,910.9
+I00276,O0145,Wireless Mouse,Electronics,1,1047.1
+I00277,O0146,Coffee Mug,Kitchen,2,415.13
+I00278,O0146,T-Shirt,Fashion,5,769.89
+I00279,O0146,Notebook,Stationery,4,107.88
+I00280,O0147,T-Shirt,Fashion,4,1033.2
+I00281,O0147,Notebook,Stationery,5,1667.53
+I00282,O0147,Sunglasses,Fashion,1,1880.22
+I00283,O0148,Wireless Mouse,Electronics,4,867.14
+I00284,O0148,Bluetooth Speaker,Electronics,3,1257.85
+I00285,O0148,Coffee Mug,Kitchen,4,1838.95
+I00286,O0149,Book,Stationery,5,1319.96
+I00287,O0150,Sunglasses,Fashion,1,673.95
+I00288,O0150,T-Shirt,Fashion,5,942.21
+I00289,O0150,Bluetooth Speaker,Electronics,4,1979.93
+I00290,O0151,Mobile Charger,Electronics,5,628.31
+I00291,O0151,Mobile Charger,Electronics,4,800.96
+I00292,O0152,Sunglasses,Fashion,4,1512.22
+I00293,O0152,Sunglasses,Fashion,1,480.3
+I00294,O0152,Notebook,Stationery,5,1431.16
+I00295,O0153,Bluetooth Speaker,Electronics,3,1128.35
+I00296,O0153,Mobile Charger,Electronics,5,872.98
+I00297,O0153,Book,Stationery,4,1316.01
+I00298,O0154,Notebook,Stationery,2,617.71
+I00299,O0154,Wireless Mouse,Electronics,1,1680.85
+I00300,O0155,Backpack,Accessories,4,495.3
+I00301,O0155,T-Shirt,Fashion,5,1257.06
+I00302,O0156,Sunglasses,Fashion,1,286.94
+I00303,O0156,T-Shirt,Fashion,2,1481.83
+I00304,O0156,Book,Stationery,4,1734.98
+I00305,O0157,T-Shirt,Fashion,1,1507.73
+I00306,O0157,Coffee Mug,Kitchen,4,675.23
+I00307,O0158,Sunglasses,Fashion,3,1324.9
+I00308,O0159,Coffee Mug,Kitchen,1,1908.28
+I00309,O0160,Sunglasses,Fashion,4,529.74
+I00310,O0160,Water Bottle,Kitchen,4,1376.4
+I00311,O0160,T-Shirt,Fashion,1,1698.68
+I00312,O0161,Wireless Mouse,Electronics,2,708.94
+I00313,O0161,Book,Stationery,2,119.04
+I00314,O0162,Backpack,Accessories,4,445.01
+I00315,O0162,Mobile Charger,Electronics,1,220.18
+I00316,O0163,Sunglasses,Fashion,2,1465.19
+I00317,O0163,Sunglasses,Fashion,4,276.34
+I00318,O0163,Sunglasses,Fashion,5,1066.23
+I00319,O0164,Backpack,Accessories,4,656.66
+I00320,O0165,Bluetooth Speaker,Electronics,1,561.9
+I00321,O0166,Bluetooth Speaker,Electronics,3,976.32
+I00322,O0167,Mobile Charger,Electronics,1,357.8
+I00323,O0167,Sunglasses,Fashion,5,1860.82
+I00324,O0168,Bluetooth Speaker,Electronics,3,386.02
+I00325,O0168,Book,Stationery,4,1489.83
+I00326,O0168,Book,Stationery,3,309.15
+I00327,O0169,T-Shirt,Fashion,2,120.09
+I00328,O0169,Bluetooth Speaker,Electronics,2,1116.58
+I00329,O0169,Bluetooth Speaker,Electronics,4,345.73
+I00330,O0170,Notebook,Stationery,4,1092.43
+I00331,O0171,T-Shirt,Fashion,4,1283.49
+I00332,O0171,Backpack,Accessories,4,449.95
+I00333,O0172,Sunglasses,Fashion,3,762.79
+I00334,O0172,Sunglasses,Fashion,1,193.21
+I00335,O0172,Backpack,Accessories,5,837.76
+I00336,O0173,Notebook,Stationery,4,1577.64
+I00337,O0173,Book,Stationery,4,1530.76
+I00338,O0173,Coffee Mug,Kitchen,4,1587.18
+I00339,O0174,Wireless Mouse,Electronics,4,557.49
+I00340,O0175,Sunglasses,Fashion,3,1628.41
+I00341,O0176,Sunglasses,Fashion,1,1715.3
+I00342,O0176,Wireless Mouse,Electronics,5,410.81
+I00343,O0176,Mobile Charger,Electronics,2,727.4
+I00344,O0177,Water Bottle,Kitchen,2,1395.05
+I00345,O0177,Mobile Charger,Electronics,4,605.08
+I00346,O0178,Sunglasses,Fashion,4,722.82
+I00347,O0178,Coffee Mug,Kitchen,1,1450.37
+I00348,O0179,Notebook,Stationery,3,482.39
+I00349,O0180,Backpack,Accessories,2,431.98
+I00350,O0180,Wireless Mouse,Electronics,4,1062.99
+I00351,O0181,Water Bottle,Kitchen,3,1593.56
+I00352,O0181,Backpack,Accessories,4,1432.14
+I00353,O0181,Sunglasses,Fashion,1,1184.56
+I00354,O0182,Sunglasses,Fashion,3,1047.98
+I00355,O0182,Backpack,Accessories,1,155.49
+I00356,O0182,Mobile Charger,Electronics,1,666.86
+I00357,O0183,Water Bottle,Kitchen,3,1305.85
+I00358,O0184,Mobile Charger,Electronics,3,1703.89
+I00359,O0184,Book,Stationery,4,964.78
+I00360,O0184,Water Bottle,Kitchen,2,242.49
+I00361,O0185,Wireless Mouse,Electronics,5,571.59
+I00362,O0185,Sunglasses,Fashion,5,1252.02
+I00363,O0185,Backpack,Accessories,3,1670.83
+I00364,O0186,Book,Stationery,5,651.34
+I00365,O0187,Book,Stationery,5,931.67
+I00366,O0187,Coffee Mug,Kitchen,3,230.61
+I00367,O0187,Bluetooth Speaker,Electronics,1,1364.02
+I00368,O0188,Backpack,Accessories,5,1483.94
+I00369,O0189,Backpack,Accessories,4,1800.83
+I00370,O0189,T-Shirt,Fashion,5,545.26
+I00371,O0189,Sunglasses,Fashion,2,724.95
+I00372,O0190,Mobile Charger,Electronics,5,1216.46
+I00373,O0190,Backpack,Accessories,1,410.19
+I00374,O0191,T-Shirt,Fashion,1,1931.98
+I00375,O0192,Bluetooth Speaker,Electronics,1,1823.8
+I00376,O0193,Water Bottle,Kitchen,2,1803.85
+I00377,O0194,Wireless Mouse,Electronics,3,1809.3
+I00378,O0194,Backpack,Accessories,4,1100.23
+I00379,O0194,Wireless Mouse,Electronics,1,904.75
+I00380,O0195,Book,Stationery,4,888.35
+I00381,O0196,Bluetooth Speaker,Electronics,2,1497.47
+I00382,O0196,Book,Stationery,2,1913.66
+I00383,O0196,Mobile Charger,Electronics,5,1120.45
+I00384,O0197,Wireless Mouse,Electronics,2,1455.32
+I00385,O0197,Book,Stationery,5,1939.15
+I00386,O0197,Mobile Charger,Electronics,5,861.88
+I00387,O0198,Wireless Mouse,Electronics,1,1590.25
+I00388,O0199,Sunglasses,Fashion,3,638.43
+I00389,O0199,Backpack,Accessories,5,870.45
+I00390,O0200,T-Shirt,Fashion,3,1983.16
+I00391,O0200,Mobile Charger,Electronics,1,1349.2
